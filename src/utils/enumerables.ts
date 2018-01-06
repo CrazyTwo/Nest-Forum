@@ -71,6 +71,8 @@ export function isType(type: string) {
     };
 }
 
+
+
 /**
  * 获取元素在数组中的索引数组
  * @param arr 数组
